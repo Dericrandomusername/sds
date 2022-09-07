@@ -9,7 +9,7 @@ var width = screen.width;
     width_of_line = 2;
 
     //Define "new_width" and "new_height" variables to store new screen width and height.
-new_width=width-300;
+new_width=width-30;
 new_height=screen.height-70;
 
     /*If the screen size is less than 992 (means 992px), then change the width and height of 
